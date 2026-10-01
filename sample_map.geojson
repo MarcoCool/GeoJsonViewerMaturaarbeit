@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dornach-Arlesheim Station",
+        "type": "transit_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6194,
+          47.4872
+        ]
+      }
+    }
+  ]
+}
